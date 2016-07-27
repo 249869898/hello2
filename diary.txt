@@ -1,1 +1,2 @@
 i add a diary 7-29 0:10
+this is a commit come from issue2 
