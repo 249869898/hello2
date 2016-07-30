@@ -4,3 +4,6 @@ i create a brach
 i don't know where am is
 this is a commit come from issue2 
 i am from 249869898
+i am from 249869898
+yes, i am form 249869898
+i create a branch issue1 with command "git branch issue1"
