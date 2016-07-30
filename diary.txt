@@ -1,5 +1,6 @@
 i add a diary 7-29 0:10
 i create a branch issue1 with command "git branch issue1"
 i create a brach
+i don't know where am is
 this is a commit come from issue2 
 i am from 249869898
